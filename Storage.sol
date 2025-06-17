@@ -27,3 +27,8 @@ contract Storage {
 hello world
 hello world
 hello world
+abstract contrac {
+  constructor() {
+    
+  }
+}
